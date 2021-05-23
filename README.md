@@ -1,4 +1,4 @@
-# WetAIPython Utilities
+# WetAI Python Utilities
 
 [This package][github] is supposed to collect, as well as make installable
 through Pip, all of the Python code and utilities that we develop as
