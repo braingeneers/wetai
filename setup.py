@@ -14,12 +14,12 @@ setup(
     long_description_content_type='text/markdown',
     url='https://github.com/braingeneers/wetai',
     author='Braingeneers',
-    keywords=['machine-learning', 'jupyter', 'neuroscience', 'wetai', 'braingeneers']
+    keywords=['machine-learning', 'jupyter', 'neuroscience', 'wetai', 'braingeneers'],
     classifiers=[
-        'Development Status :: 3 - Alpha',
-        'Intended Audience :: wetAI',
+        'Development Status :: 1 - Planning',
+        'Intended Audience :: Science/Research',
         'Programming Language :: Python :: 3',
-        'License :: MIT'
+        'License :: OSI Approved :: MIT License',
     ],
     packages=find_packages(exclude=()),
     install_requires=['numpy', 'scipy', 'requests'],
